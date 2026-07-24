@@ -1,0 +1,6 @@
+{
+  "name": "TASK ERROR MONITOR - LIGABANDOT",
+  "description": "Sistem Monitoring, Pencatatan, Pemantauan, dan Rekapitulasi Kesalahan CS LIGABANDOT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
